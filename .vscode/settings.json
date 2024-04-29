@@ -2,7 +2,7 @@
   "rust-analyzer.check.allTargets": false,
   "rust-analyzer.check.command": "build",
   "rust-analyzer.check.extraArgs": [
-    /* "--lib", */
+    "--lib",
     "--bins",
     "--examples"
   ]
